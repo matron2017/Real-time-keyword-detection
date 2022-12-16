@@ -1,2 +1,2 @@
-# Real-time-keyword-detection
-Training and testing of convolution neural network used for keyword detection. Contains implemenation of it in real-time detection.
+# Real-time Keyword Detection
+Training and testing of a convolutional neural network used for keyword detection. Contains implementation of real-time detection.
